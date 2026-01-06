@@ -15,4 +15,4 @@ Below are the screenshots of my code in action:
 ![Lab Demo](Practice/Practice2/Number4/1.PNG)
 
 ### Terminal Execution & Debugging
-![Execution](Practice/Practice3/Number3/1.png)
+![Execution](Practice/Practice4/Number1/1.PNG)
