@@ -12,7 +12,7 @@ The focus is on low-level programming and efficiency, which is critical for my m
 Below are the screenshots of my code in action:
 
 ### Laboratory Work Results
-![Lab Demo](Practice/Practice1/Number2/1.png)
+![Lab Demo](Practice/Practice1/Number3/1.png)
 
 ### Terminal Execution & Debugging
-![Execution](Practice/2.png)
+![Execution](Practice/Practice3/Number3/1.png)
