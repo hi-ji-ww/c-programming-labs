@@ -11,7 +11,7 @@ The focus is on low-level programming and efficiency, which is critical for my m
 ## 📸 Performance & Results
 Below are the screenshots of my code in action:
 
-### Laboratory Work Results
+### Practical Work Results
 ![Lab Demo](Practice/Practice2/Number4/1.PNG)
 
 ### Terminal Execution & Debugging
