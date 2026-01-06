@@ -13,7 +13,7 @@ Below are the screenshots of my code in action:
 
 ### Laboratory Work Results
 ![Lab Demo](Practice/Practice1
-/Number2/1.png)
+/Number2/1.PNG)
 
 ### Terminal Execution & Debugging
 ![Execution](Practice/2.png)
